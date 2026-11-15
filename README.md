@@ -1,3 +1,7 @@
+<img width="505" height="610" alt="Screenshot 2026-11-15 142841" src="https://github.com/user-attachments/assets/333d9e7d-7da2-451e-bb4e-d2d25ab6a030" />
+<img width="662" height="412" alt="Screenshot 2026-11-15 142857" src="https://github.com/user-attachments/assets/0e56ec48-5d12-4bb3-81fb-93f67b84ec12" />
+<img width="1532" height="587" alt="Screenshot 2026-11-15 143422" src="https://github.com/user-attachments/assets/11817282-8787-487f-9ce0-43cab46b2475" />
+<img width="1452" height="571" alt="Screenshot 2026-11-15 143120" src="https://github.com/user-attachments/assets/6cdcdcf1-421b-4258-bd9f-cf700f0b30a6" />
 # ATM-SYSTEM
 ATM System Design using Verilog HDL with FSM-based transaction control.
 # ATM System Design using Verilog HDL
